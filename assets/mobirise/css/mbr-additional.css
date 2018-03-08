@@ -2033,7 +2033,7 @@ body {
 .cid-qIHlcc0M0A {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #cccccc;
 }
 .cid-qIHlcc0M0A .mbr-iconfont {
   font-size: 48px;
@@ -2123,39 +2123,6 @@ body {
   .cid-qIHlcc0M0A .container > .row > .col-md-6:last-child {
     padding-left: 30px;
   }
-}
-.cid-qHDp25YwIo {
-  padding-top: 90px;
-  padding-bottom: 120px;
-  background-image: url("../../../assets/images/geeta-1854x1110.jpg");
-}
-.cid-qHDp25YwIo .title {
-  margin-bottom: 2rem;
-}
-.cid-qHDp25YwIo .mbr-section-subtitle {
-  color: #ffffff;
-}
-.cid-qHDp25YwIo a:not([href]):not([tabindex]) {
-  color: #fff;
-  border-radius: 3px;
-}
-.cid-qHDp25YwIo a.btn-white:not([href]):not([tabindex]) {
-  color: #333;
-}
-.cid-qHDp25YwIo .multi-horizontal {
-  flex-grow: 1;
-  -webkit-flex-grow: 1;
-  max-width: 100%;
-}
-.cid-qHDp25YwIo .input-group-btn {
-  display: block;
-  text-align: center;
-}
-.cid-qHDp25YwIo H2 {
-  color: #ffbc7e;
-}
-.cid-qHDp25YwIo LABEL {
-  color: #ffffff;
 }
 .cid-qHt6KCYIQM .navbar {
   padding: .5rem 0;
