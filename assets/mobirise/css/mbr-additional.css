@@ -1955,7 +1955,7 @@ body {
   text-align: left;
 }
 .cid-qLNBHAZ54v {
-  padding-top: 30px;
+  padding-top: 15px;
   padding-bottom: 30px;
   background-color: #2e2e2e;
 }
@@ -2418,7 +2418,7 @@ body {
 }
 .cid-qLMuE5lim8 {
   padding-top: 90px;
-  padding-bottom: 90px;
+  padding-bottom: 75px;
   background-color: #cccccc;
 }
 .cid-qLMuE5lim8 .mbr-iconfont {
@@ -2512,6 +2512,79 @@ body {
 }
 .cid-qLMuE5lim8 B {
   color: #5b686b;
+}
+.cid-qLNFtw1M2k {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-qLNFtw1M2k .row-links {
+  width: 100%;
+  justify-content: center;
+}
+.cid-qLNFtw1M2k .social-row {
+  width: 100%;
+  justify-content: center;
+}
+.cid-qLNFtw1M2k .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cid-qLNFtw1M2k .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-qLNFtw1M2k .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-qLNFtw1M2k .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-qLNFtw1M2k .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qLNFtw1M2k .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-qLNFtw1M2k .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qLNFtw1M2k .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qLNFtw1M2k .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qLNFtw1M2k .media-container-row .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-qLNFtw1M2k .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-qLNFtw1M2k .media-container-row .row-copirayt p {
+  width: 100%;
+}
+.cid-qLNFtw1M2k .media-container-row .mbr-text {
+  color: #e4d295;
 }
 .cid-qHt6KCYIQM .navbar {
   padding: .5rem 0;
@@ -2943,4 +3016,77 @@ body {
 }
 .cid-qLN6tbqdYH .mbr-text {
   text-align: left;
+}
+.cid-qLNFGUwxQV {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-qLNFGUwxQV .row-links {
+  width: 100%;
+  justify-content: center;
+}
+.cid-qLNFGUwxQV .social-row {
+  width: 100%;
+  justify-content: center;
+}
+.cid-qLNFGUwxQV .media-container-row {
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.cid-qLNFGUwxQV .media-container-row .foot-menu {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding: 0;
+  margin-bottom: 0;
+}
+.cid-qLNFGUwxQV .media-container-row .foot-menu li {
+  padding: 0 1rem 1rem 1rem;
+}
+.cid-qLNFGUwxQV .media-container-row .foot-menu li p {
+  margin: 0;
+}
+.cid-qLNFGUwxQV .media-container-row .social-list {
+  padding-left: 0;
+  margin-bottom: 0;
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  -webkit-justify-content: flex-end;
+}
+.cid-qLNFGUwxQV .media-container-row .social-list .mbr-iconfont-social {
+  font-size: 1.5rem;
+  color: #ffffff;
+}
+.cid-qLNFGUwxQV .media-container-row .social-list .soc-item {
+  margin: 0 .5rem;
+}
+.cid-qLNFGUwxQV .media-container-row .social-list a {
+  margin: 0;
+  opacity: .5;
+  -webkit-transition: .2s linear;
+  transition: .2s linear;
+}
+.cid-qLNFGUwxQV .media-container-row .social-list a:hover {
+  opacity: 1;
+}
+@media (max-width: 767px) {
+  .cid-qLNFGUwxQV .media-container-row .social-list {
+    justify-content: center;
+    -webkit-justify-content: center;
+  }
+}
+.cid-qLNFGUwxQV .media-container-row .row-copirayt {
+  word-break: break-word;
+  width: 100%;
+}
+.cid-qLNFGUwxQV .media-container-row .row-copirayt p {
+  width: 100%;
+}
+.cid-qLNFGUwxQV .media-container-row .mbr-text {
+  color: #e4d295;
 }
