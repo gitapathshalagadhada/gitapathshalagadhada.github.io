@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "ouractivity.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 40,
     "versionPublish": "4.6.2",
@@ -47,7 +47,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "ગીતા પાઠશાળા સંસ્થાન ગઢડા (સ્વા.)",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
