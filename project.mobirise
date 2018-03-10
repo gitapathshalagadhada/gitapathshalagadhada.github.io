@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "ouractivity.html",
+    "currentPage": "Contact.github.ioContact.github.iocontact.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 40,
     "versionPublish": "4.6.2",
@@ -1416,7 +1416,7 @@
     },
     "ouractivity.html": {
       "settings": {
-        "meta_descr": "Site Generator Description",
+        "meta_descr": "",
         "title": "our activity",
         "order": 2
       },
