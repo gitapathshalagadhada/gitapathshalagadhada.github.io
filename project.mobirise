@@ -2795,7 +2795,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-04-15-at-7.25.02-pm-1040x780.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": true,
@@ -2813,10 +2813,10 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-04-15-at-7.25.04-pm-1040x780.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
-                "showText": true,
-                "showTitle": false,
+                "showText": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
@@ -2832,8 +2832,8 @@
                 "image": "@PROJECT_PATH@/assets/images/whatsapp-image-2018-04-15-at-7.25.05-pm-1040x780.jpg",
                 "active": false,
                 "showButtons": false,
-                "showText": true,
-                "showTitle": false,
+                "showText": false,
+                "showTitle": true,
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
                 "customStyle1": "display-2",
