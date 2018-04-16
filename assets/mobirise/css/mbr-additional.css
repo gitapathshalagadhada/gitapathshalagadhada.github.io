@@ -3523,7 +3523,7 @@ body {
 .cid-qPmrZpXFVg {
   padding-top: 45px;
   padding-bottom: 45px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 @media (min-width: 992px) {
   .cid-qPmrZpXFVg .mbr-figure {
@@ -3564,6 +3564,12 @@ body {
   .cid-qPiyWhkmBF .inner-container {
     width: 100% !important;
   }
+}
+.cid-qPiyWhkmBF .section-text B {
+  color: #232323;
+}
+.cid-qPiyWhkmBF .section-text DIV {
+  color: #232323;
 }
 .cid-qPiyV0R7Ft {
   padding-top: 15px;
