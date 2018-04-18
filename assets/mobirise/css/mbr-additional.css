@@ -3502,8 +3502,8 @@ body {
   background-color: #efefef;
 }
 .cid-qPmoRnrFLB .line {
-  background-color: #ff3366;
-  color: #ff3366;
+  background-color: #b2d1d2;
+  color: #b2d1d2;
   align: center;
   height: 2px;
   margin: 0 auto;
@@ -3519,6 +3519,9 @@ body {
   .cid-qPmoRnrFLB .inner-container {
     width: 100% !important;
   }
+}
+.cid-qPmoRnrFLB .section-text B {
+  color: #ffb024;
 }
 .cid-qPmrZpXFVg {
   padding-top: 45px;
