@@ -785,6 +785,9 @@
             },
             ".media-container-row .mbr-text P": {
               "color": "#b1a374"
+            },
+            "P": {
+              "color": "#b1a374"
             }
           },
           "_name": "footer7",
@@ -1409,6 +1412,9 @@
             },
             ".media-container-row .mbr-text P": {
               "color": "#b1a374"
+            },
+            "P": {
+              "color": "#b1a374"
             }
           },
           "_name": "footer7",
@@ -1969,6 +1975,9 @@
               "color": "#c1c1c1"
             },
             ".media-container-row .mbr-text P": {
+              "color": "#b1a374"
+            },
+            "P": {
               "color": "#b1a374"
             }
           },
@@ -3044,6 +3053,9 @@
             },
             ".media-container-row .mbr-text P": {
               "color": "#b1a374"
+            },
+            "P": {
+              "color": "#b1a374"
             }
           },
           "_name": "footer7",
@@ -3546,6 +3558,9 @@
               "color": "#c1c1c1"
             },
             ".media-container-row .mbr-text P": {
+              "color": "#b1a374"
+            },
+            "P": {
               "color": "#b1a374"
             }
           },
