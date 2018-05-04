@@ -3773,8 +3773,8 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc-5502-2000x1328.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc-5503-2000x1328.jpg",
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -3808,7 +3808,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-5510-2000x1328.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
