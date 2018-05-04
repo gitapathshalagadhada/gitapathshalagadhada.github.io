@@ -3824,7 +3824,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn  btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/dsc-5486-2000x1328.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dsc-5515-2000x1328.jpg",
                 "active": true,
                 "showButtons": false,
                 "showText": false,
