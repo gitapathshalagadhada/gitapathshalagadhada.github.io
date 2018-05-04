@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page5.html",
+    "currentPage": "Gallery.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 77,
     "versionPublish": "4.7.2",
@@ -3774,7 +3774,7 @@
             "slides": [
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-5502-2000x1328.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
@@ -3808,7 +3808,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/dsc-5510-2000x1328.jpg",
-                "active": false,
+                "active": true,
                 "showButtons": false,
                 "showText": false,
                 "showTitle": false,
